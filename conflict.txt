@@ -3,3 +3,4 @@ hello
 hw r u
 
 This is my terminal conflict
+This is my conflict in github
